@@ -84,17 +84,32 @@ E-commerce product application.
 **Tech Stack:**
 React.js | Context API | Dummy API
 
-
 # 📫 Connect With Me
 
 <div align="center">
 
 <a href="www.linkedin.com/in/besan-lsmat-naser-32877138b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/engbissannasr2004">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_UPWORK_LINK">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="https://www.freelancer.com/u/EngBissan2004">
+<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+</a>
+
+<a href="https://khamsat.com/user/bissan_in5">
+<img src="https://img.shields.io/badge/Khamsat-F4B400?style=for-the-badge&logo=freelance&logoColor=white"/>
+</a>
+
+<a href="https://mostaql.com/u/Besan_Naser2004">
+<img src="https://img.shields.io/badge/Mostaql-2F80ED?style=for-the-badge&logo=freelance&logoColor=white"/>
 </a>
 
 </div>

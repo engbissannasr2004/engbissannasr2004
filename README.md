@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Besan Naser
 
-<!--
-**engbissannasr2004/engbissannasr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building responsive and user-friendly web applications. I enjoy learning modern web technologies and creating clean, interactive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Front-End Developer
+- 🌱 Currently learning React.js & ASP.NET Web API
+- 🎯 Interested in Full-Stack Web Development
+- 📫 Reach me on LinkedIn
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vite
+- Bootstrap
+- Tailwind CSS
+- 
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+## 🤝 Connect with Me
+
+- LinkedIn:  www.linkedin.com/in/besan-lsmat-naser-32877138b
+- GitHub:  https://github.com/engbissannasr2004

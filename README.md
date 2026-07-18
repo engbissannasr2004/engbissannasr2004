@@ -18,7 +18,7 @@ Building modern, responsive, and user-friendly web applications using modern web
 
 🌱 Currently learning:
 - React.js
-- ASP.NET Core Web API
+- Next.js
 - Advanced JavaScript
 
 🎯 Interested in:
@@ -89,12 +89,12 @@ React.js | Context API | Dummy API
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="www.linkedin.com/in/besan-lsmat-naser-32877138b"/>
+<a href="www.linkedin.com/in/besan-lsmat-naser-32877138b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github.com/engbissannasr2004"/>
+<a href="https://github.com/engbissannasr2004">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>

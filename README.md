@@ -1,4 +1,4 @@
-<h1 align="center">Besan Naser</h1>
+<h1 align="center">Besan Ismat Naser</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:29B2FE&height=140&section=header" alt="Banner" width="100%"/>

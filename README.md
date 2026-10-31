@@ -75,7 +75,7 @@ Software Engineering student and front-end developer focused on building respons
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="screenshots/product-store.png" alt="Product Store" width="100%"/>
+      <img src="screenshots/product-store.jpeg" alt="Product Store" width="100%"/>
       <h3>Product Store</h3>
       <p>An e-commerce product app with product listing and global state management.</p>
       <p><b>Stack:</b> React, Context API, REST API</p>

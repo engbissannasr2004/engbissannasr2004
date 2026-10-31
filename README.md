@@ -85,12 +85,15 @@ Software Engineering student and front-end developer focused on building respons
 </table>
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=engbissannasr2004&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engbissannasr2004&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=engbissannasr2004&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engbissannasr2004&theme=default" alt="Profile Details" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engbissannasr2004&theme=default" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">

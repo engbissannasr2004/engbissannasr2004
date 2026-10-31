@@ -1,32 +1,35 @@
-<h1 align="center">Besan Ismat Naser</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:29B2FE&height=140&section=header" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Besan%20Ismat%20Naser&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%C2%B7%20React%20%26%20React%20Native&descSize=18&descAlignY=60" alt="Besan Ismat Naser" width="100%"/>
 </p>
 
 <p align="center">
-  <b>Front-End Developer</b> · React &amp; React Native<br/>
-  Software Engineering Student · Transitioning into Full-Stack
+  <a href="https://github.com/engbissannasr2004">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=45&lines=Software+Engineering+Student;Building+Responsive+and+Scalable+UIs;React+%26+React+Native+(Expo);Now+Expanding+into+Node.js+%26+Full-Stack" alt="Typing animation"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/besan-lsmat-naser-32877138b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.freelancer.com/u/EngBissan2004">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white" alt="Freelancer"/>
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
   </a>
   <a href="https://khamsat.com/user/bissan_in5">
-    <img src="https://img.shields.io/badge/Khamsat-F4B400?style=flat-square" alt="Khamsat"/>
+    <img src="https://img.shields.io/badge/Khamsat-F4B400?style=for-the-badge" alt="Khamsat"/>
   </a>
   <a href="https://mostaql.com/u/Besan_Naser2004">
-    <img src="https://img.shields.io/badge/Mostaql-2F80ED?style=flat-square" alt="Mostaql"/>
+    <img src="https://img.shields.io/badge/Mostaql-2F80ED?style=for-the-badge" alt="Mostaql"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Internships%20%7C%20Collaboration-0A66C2?style=flat-square" alt="Open to work"/>
 </p>
 
 ---
 
-## About
+## About Me
 
 Software Engineering student and front-end developer focused on building responsive, accessible, and maintainable user interfaces. I work with React on the web and React Native (Expo) on mobile, consume REST APIs, and turn Figma designs into production-ready screens. I'm now expanding into backend development with Node.js to become a well-rounded full-stack engineer.
 
@@ -36,23 +39,36 @@ Software Engineering student and front-end developer focused on building respons
 - Backend fundamentals with Node.js
 - Clean code, component architecture, and API integration
 
-**Open to** freelance projects, internships, and collaboration.
-
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github,postman,figma,vscode" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,git,github,postman,figma,vscode&perline=12" alt="Tech stack"/>
 </p>
 
-| Area | Technologies |
-|---|---|
-| **Languages** | JavaScript (ES6+), HTML5, CSS3 |
-| **Front-End** | React, Vite, Tailwind CSS, Bootstrap |
-| **Mobile** | React Native, Expo |
-| **Tools** | Git, GitHub, Postman, Figma, VS Code |
-| **Learning** | Next.js, Node.js |
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>JavaScript (ES6+), HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><b>Front-End</b></td>
+    <td>React, Vite, Tailwind CSS, Bootstrap</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>React Native, Expo</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, Postman, Figma, VS Code</td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>Next.js, Node.js</td>
+  </tr>
+</table>
 
 ---
 
@@ -64,13 +80,21 @@ Software Engineering student and front-end developer focused on building respons
       <img src="screenshots/internship-platform.png" alt="Internship Platform" width="100%"/>
       <h3>Internship Platform</h3>
       <p>A platform that connects students with institutions to discover and apply for internship opportunities.</p>
-      <p><b>Stack:</b> React, Vite, Axios, REST API</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <img src="screenshots/movie-app.png.jpeg" alt="Movie Application" width="100%"/>
       <h3>Movie Application</h3>
       <p>A movie browsing app that fetches and displays data from external APIs, with a clean and responsive UI.</p>
-      <p><b>Stack:</b> React, JavaScript, API Integration</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=flat-square" alt="REST API"/>
+      </p>
     </td>
   </tr>
   <tr>
@@ -78,13 +102,18 @@ Software Engineering student and front-end developer focused on building respons
       <img src="screenshots/product-store.jpeg" alt="Product Store" width="100%"/>
       <h3>Product Store</h3>
       <p>An e-commerce product app with product listing and global state management.</p>
-      <p><b>Stack:</b> React, Context API, REST API</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Context%20API-0A66C2?style=flat-square" alt="Context API"/>
+        <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=flat-square" alt="REST API"/>
+      </p>
     </td>
     <td width="50%"></td>
   </tr>
 </table>
 
 ---
+
 ## GitHub Stats
 
 <p align="center">
@@ -96,6 +125,14 @@ Software Engineering student and front-end developer focused on building respons
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engbissannasr2004&theme=default" alt="Top Languages" width="48%"/>
 </p>
 
+---
+
+## Let's Work Together
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B2FE,100:0A66C2&height=100&section=footer" alt="Footer" width="100%"/>
+  Have a project in mind or want to collaborate? Reach out on LinkedIn or through any of the freelance platforms above.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer" width="100%"/>
 </p>

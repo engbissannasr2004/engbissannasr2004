@@ -67,7 +67,7 @@ Software Engineering student and front-end developer focused on building respons
       <p><b>Stack:</b> React, Vite, Axios, REST API</p>
     </td>
     <td width="50%" valign="top">
-      <img src="screenshots/movie-app.png" alt="Movie Application" width="100%"/>
+      <img src="screenshots/movie-app.png.jpeg" alt="Movie Application" width="100%"/>
       <h3>Movie Application</h3>
       <p>A movie browsing app that fetches and displays data from external APIs, with a clean and responsive UI.</p>
       <p><b>Stack:</b> React, JavaScript, API Integration</p>

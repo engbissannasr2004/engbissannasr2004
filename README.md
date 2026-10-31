@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Besan%20Ismat%20Naser&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%C2%B7%20React%20%26%20React%20Native&descSize=18&descAlignY=60" alt="Besan Ismat Naser" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:29B2FE&height=200&section=header&text=Besan%20Ismat%20Naser&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer&descSize=18&descAlignY=62" alt="Besan Ismat Naser" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/engbissannasr2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=45&lines=Software+Engineering+Student;Building+Responsive+and+Scalable+UIs;React+%26+React+Native+(Expo);Now+Expanding+into+Node.js+%26+Full-Stack" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&height=45&lines=Software+Engineering+Student;Building+Responsive+and+Scalable+UIs;React+and+React+Native+(Expo);Now+Expanding+into+Node.js+and+Full-Stack" alt="Typing animation"/>
   </a>
 </p>
 
@@ -134,5 +134,5 @@ Software Engineering student and front-end developer focused on building respons
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29B2FE,100:0A66C2&height=120&section=footer" alt="Footer" width="100%"/>
 </p>
